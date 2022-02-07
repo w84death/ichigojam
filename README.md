@@ -1,4 +1,5 @@
-# IchigoJam
+# ![IchigoJam](ichigojam_header.jpg)
+
 All the things for IchigoJam
 
 ## Resources
