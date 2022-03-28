@@ -24,4 +24,5 @@ All the things for IchigoJam
 
 ### 3D Case (STL)
 ![3D Case Render](3d_printed_case/ichigojam_case2.jpg)
+Get the STL files at [thingiverse.com/thing:5235837](https://www.thingiverse.com/thing:5235837)
 
